@@ -20,7 +20,7 @@ n_slice = 3         # slice image
 h_type = 'region'  # global or region
 d_type = 'd1'      # distance type
 
-depth = 10         # retrieved depth, set to None will count the ap for whole database
+depth = 3         # retrieved depth, set to None will count the ap for whole database
 
 ''' MMAP
      depth
